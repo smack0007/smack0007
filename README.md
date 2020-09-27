@@ -1,4 +1,4 @@
-### Hi there 👋
+### smack0007 ⛄
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=smack0007)](https://github.com/smack0007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smack0007&layout=compact)](https://github.com/smack0007)
